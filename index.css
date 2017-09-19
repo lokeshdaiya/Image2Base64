@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+}
+#drop {    
+    border: 3px dashed #bd9d7f;
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 76px;
+    margin-top: 35px;
+    padding: 2px;
+    border-radius: 6px;
+    text-align: center;
+}
+#results {
+    text-align: center;
+}
+
+textarea {
+    width: 100%;
+    height: -webkit-fill-available;
+    display: none;
+    margin: 30px 2px;
+}
